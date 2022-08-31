@@ -1,0 +1,18 @@
+.wra-per {
+    background-image: url('../img/Mask\ Group.jpg');
+    left: 1008px;
+    top: 1594px;
+}
+
+.row:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: "";
+    clear: both;
+    height: 0;
+}
+
+.row {
+    display: inline-block;
+}

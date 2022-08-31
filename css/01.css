@@ -1,0 +1,44 @@
+.slide img {
+    max-width: 338px;
+    margin-top: -6px;
+    margin-left: -11px;
+}
+
+.sil {
+    max-width: 338px;
+}
+
+.sl {}
+
+.sl__slide {
+    position: relative;
+}
+
+.sl__img {}
+
+.sl__text {
+    position: absolute;
+    bottom: 183px;
+    width: 54%;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    padding-left: 50px;
+    color: #fff;
+}
+
+.sl__text button {
+    width: 148px;
+    height: 47px;
+    background: #81BECB;
+    border-radius: 57px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.sl__zag {}
+
+.sl__desc {}
